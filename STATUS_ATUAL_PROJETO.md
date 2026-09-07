@@ -329,3 +329,16 @@ A avaliação está em `06_resultados/AVALIACAO_KIRSCH_NOWAK_EUROCLIMA.md`. O pr
 é auditar as séries ANA/DPM e preparar componentes não aninhados de Antas, Forqueta e
 Guaporé, sem dupla contagem. Só depois da validação estatística o ensemble deve ser usado
 para atualizar custo-benefício ou selecionar alternativa.
+
+### Relatório consolidado e manchas HAND — 07/09/2026
+
+Foi criado `09-relatorio-consolidado.qmd`, reunindo o histórico da análise, a leitura
+imparcial dos resultados, a comparação preliminar de manchas HAND sem novas barragens e
+com ALT-J, a matriz HEC-00–HEC-06, a hipótese de diques/soluções híbridas e o plano de
+continuidade. A triagem espacial resultou em 288,4 km² sem novas barragens e 245,4 km²
+com ALT-J, redução de 43,0 km² (14,9%) no corredor; em Estrela, 30,77 para 24,60 km²
+(20,1%). Esses números são HAND, não manchas hidráulicas finais.
+
+O relatório foi renderizado e a saída estática foi publicada no site público. As figuras
+estão em `06_resultados/VALIDACAO/MAPA_HAND_SEM_VS_ALTJ.png`,
+`MAPA_HAND_DIFERENCA_ALTJ.png` e `REDUCAO_MANCHA_HAND_ALTJ_MUNICIPIOS.png`.
